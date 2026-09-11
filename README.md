@@ -17,7 +17,7 @@ Puedes descargar los diferentes juegos de la saga [aquí](https://github.com/Zhi
 
 ## Cada lanzamiento y su versión mas actual
 
-[![edle](https://img.shields.io/badge/Escape%20de%20la%20Escuela-v1.1-grey?style=flat)](https://github.com/Zhirogane/sachagame/releases/tag/edle)
+[![edle](https://img.shields.io/badge/Escape%20de%20la%20Escuela-v1.1-lightgrey?style=flat)](https://github.com/Zhirogane/sachagame/releases/tag/edle)
 [![epdn](https://img.shields.io/badge/El%20problema%20de%20Navidad-v1.5-green?style=flat)](https://github.com/Zhirogane/sachagame/releases/tag/epdn)
 [![elrescate](https://img.shields.io/badge/El%20Rescate-v1.5-red?style=flat)](https://github.com/Zhirogane/sachagame/releases/tag/elrescate)
 [![extended](https://img.shields.io/badge/Extended-v1.2-blue?style=flat)](https://github.com/Zhirogane/sachagame/releases/tag/extended)
