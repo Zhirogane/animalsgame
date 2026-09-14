@@ -15,4 +15,4 @@ Puedes descargar los diferentes juegos [aquí](https://github.com/Zhirogane/powe
 [![akm](https://img.shields.io/badge/Akm-v1.4-black?style=flat)](https://github.com/Zhirogane/powerpoint/releases/tag/akm)
 [![sg](https://img.shields.io/badge/Sacha%20Game-v15.09-blue?style=flat)](https://github.com/Zhirogane/powerpoint/releases/tag/sg)
 [![na](https://img.shields.io/badge/NievesADVENTURE-Temporada%203-yellow?style=flat)](https://github.com/Zhirogane/powerpoint/releases/tag/na)
-[![lg](https://img.shields.io/badge/Lucas%20Game-v1.3-black?style=flat)](https://github.com/Zhirogane/powerpoint/releases/tag/lg)
+[![lg](https://img.shields.io/badge/Lucas%20Game-v1.3-white?style=flat)](https://github.com/Zhirogane/powerpoint/releases/tag/lg)
