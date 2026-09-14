@@ -1,19 +1,8 @@
-<style>
-  body { background-color: #0d1117; color: #c9d1d9; }
-  header, .page-header, h1:first-of-type { 
-    display: none !important; 
-  }
-  p img, a img {
-    background-color: transparent !important;
-    box-shadow: none !important;
-  }
-</style>
-
 # Animals Game
-Bienvenido/a a la pagina web oficial de Animals Game. Este es un juego hecho en Power Point solo disponible para computadora. Consta de diferentes lanzamientos de la misma saga y diferentes historias.
+Bienvenido/a al GitHub oficial de juegos de Power Point de Zhirogane. Este es un juego hecho en Power Point solo disponible para computadora. Consta de diferentes lanzamientos de todos los juegos de Power Point. Para Sacha Game hay una pagina oficial de GitHub donde estan todas las versiones pero aqui tambien puedes descargar la ultima versión de Sacha Game
 
 ## Descarga
-Puedes descargar los diferentes juegos de la saga [aquí](https://github.com/Zhirogane/animalsgame/releases)
+Puedes descargar los diferentes juegos [aquí](https://github.com/Zhirogane/powerpoint/releases)
 
 ## Cada lanzamiento y su versión mas actual
 
